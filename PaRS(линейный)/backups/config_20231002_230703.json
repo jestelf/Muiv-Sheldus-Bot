@@ -1,0 +1,29 @@
+{
+    "BASE_URL": "https://www.muiv.ru/studentu/fakultety-i-kafedry/fakultet-it/raspisaniya/",
+    "MONTH_TRANSLATION": {
+        "January": "ЯНВАРЬ",
+        "February": "ФЕВРАЛЬ",
+        "March": "МАРТ",
+        "April": "АПРЕЛЬ",
+        "May": "МАЙ",
+        "June": "ИЮНЬ",
+        "July": "ИЮЛЬ",
+        "August": "АВГУСТ",
+        "September": "СЕНТЯБРЬ",
+        "October": "ОКТЯБРЬ",
+        "November": "НОЯБРЬ",
+        "December": "ДЕКАБРЬ"
+    },
+    "SLEEP_DURATION": 10801.0,
+    "BASE_FILE_URL": "https://www.muiv.ru",
+    "SCHEDULES_DIRECTORY": "schedules",
+    "FILENAME_PREFIX": "raspisanie",
+    "TEACHER_PREFIXES": [
+        "ст.пр.",
+        "доц.",
+        "зав. Каф.",
+        "зам. Декана",
+        "рук.обр.пр.",
+        "проф."
+    ]
+}
